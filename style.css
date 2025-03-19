@@ -1,0 +1,21 @@
+/*.hero {
+    background-image: url('/Pic/Fondo.jpg');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}*/
+#name{
+    color: white;
+    background-color: rgba(0,0,0,0.5);
+    max-width: 100%;
+    padding: 1vh;
+    border-radius: 5vh;
+}
+#foto{
+    position: relative;
+    max-width: 100%;
+    height: auto;
+    border-radius: 25%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
